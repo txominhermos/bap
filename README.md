@@ -1,12 +1,12 @@
 ![banner image](figure/fig.png)
 
-# BAP-GEE 
+# GEE-BAP 
 
 **A Google Earth Engine application for Best Available Pixel composites calculation, visualization, calibration, and download**
 
 <br><br>
 
-## [BAP-GEE application](https://code.earthengine.google.com/?accept_repo=users/sfrancini/bap) 
+## [GEE-BAP application](https://code.earthengine.google.com/?accept_repo=users/sfrancini/bap) 
 
 <br><br> 
 
